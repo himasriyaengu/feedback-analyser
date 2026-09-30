@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+google-play-scraper
+streamlit
+plotly
